@@ -1,6 +1,6 @@
 #8-Mini-Assignment
 CS 5340 #8 Mini Coding Assignment.
-# Greetings with Hugging Face
+# Greetings with Hugging Face (Working Link: https://8minicodingassignment.streamlit.app/ )
 
 A simple interactive Streamlit application that uses the Hugging Face Inference API (GPT-2) to generate a creative "Hello World" message. This project demonstrates how to integrate generative AI into a web app, securely manage API keys, and deploy the application on Streamlit Cloud.
 
